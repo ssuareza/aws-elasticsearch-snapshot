@@ -22,3 +22,9 @@ pip install requests-aws4auth --user
 ```sh
 python register-repo.py
 ```
+
+Output should be:
+```
+200
+{"acknowledged":true}
+```
