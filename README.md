@@ -6,7 +6,10 @@ Oficial documentation: https://docs.aws.amazon.com/elasticsearch-service/latest/
 
 Steps in video: https://www.youtube.com/watch?v=FmLmyvH83Ng
 
-## Register repository
+## Registering a Manual Snapshot Repository
+
+This one-time operation requires that you sign your AWS request with credentials that are allowed to access.
+
 1.- Add your values in "register-repo.py" script (section "# Your values here").
 
 2.- Install dependencies:
