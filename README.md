@@ -3,6 +3,7 @@ A cheat sheet on how to take and Elasticsearch Snapshot.
 
 ## References
 Oficial documentation: https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-managedomains-snapshots.html
+
 Steps in video: https://www.youtube.com/watch?v=FmLmyvH83Ng
 
 ## Register repository
